@@ -39,3 +39,13 @@ print('head.txt: ', head.text.strip())
 
 h1 = soup.select_one('h1')
 print(h1)
+
+
+footer = soup.select_one('h1#footer')
+print(footer)
+
+class_link=soup.select_one('a.internal_link')
+print(class_link)
+
+print(class_link.string)
+print(class_link['href'])

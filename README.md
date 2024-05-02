@@ -1,4 +1,3 @@
-https://github.com/juugii-ho/KDT_7W_Crawling/blob/main/B7159663510_l.jpg?raw=true
 
 
 # 교재 : 파이썬으로 웹 크롤러 만들기(라이언 미첼, 한선용 지음 / 한빛미디어)
